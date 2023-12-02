@@ -1,0 +1,67 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+html {
+    background-color: hsl(212, 45%, 89%);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+
+
+/** layout **/
+
+body {
+    position: relative;
+    display: grid;
+    place-items: center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+
+#baseWrapper {
+    background-color: white;
+    border-radius: 10px;
+    width: 320px;
+    padding: 15px;
+    height: 500px;
+}
+
+img {
+    width: 320px;
+    border-radius: 10px;
+}
+
+#textWrapper {
+    text-align: center;
+    padding-right: 10px ;
+    padding-left: 10px ;
+}
+
+.attribution {
+    position: absolute;
+    bottom: 25px;
+}
