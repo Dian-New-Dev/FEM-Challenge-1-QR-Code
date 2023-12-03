@@ -7,8 +7,6 @@ Link do desafio: https://www.frontendmentor.io/challenges/qr-code-component-iux_
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,22 +19,12 @@ Link do desafio: https://www.frontendmentor.io/challenges/qr-code-component-iux_
 
 FEM Challenge, mainly about styling and correctly centralizing a QR Code. Responsive.
 
-### Screenshot
-
-![](.\screenshot.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 - Eyeball the design png for a couple of minutes to determine how many divs the project
 will require and what hierarchy they'll have;
 - Open VS Code, generate basic HTMl file;
 - Create CSS, first line is always:
-
     * {
       box-sizing: border-box;
     }
