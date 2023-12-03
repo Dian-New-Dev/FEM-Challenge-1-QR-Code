@@ -2,7 +2,7 @@
 
 This is my first FEM challenge solution: a simple, minimally responsive, QR Code.
 
-Link do desafio: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+Challenge link: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 ## Table of contents
 
